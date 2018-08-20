@@ -1,0 +1,2 @@
+/* Add styles for centred, responsive images */
+{var style = document.createElement("style"); for(var i=1; i <= 100; i++) {style.appendChild(document.createTextNode("div[img-" + i + "] {width: " + i + "%; margin: 0 auto;}"));} document.getElementsByTagName("head")[0].appendChild(style);}
