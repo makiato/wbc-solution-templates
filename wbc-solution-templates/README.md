@@ -1,0 +1,1 @@
+Nothing but solution design template files.  
